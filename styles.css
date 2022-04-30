@@ -1,0 +1,168 @@
+body{
+    background-color: #270082;
+    margin: 0;
+    text-align: center;
+    height: 100%;
+    font-family: 'Prompt', sans-serif;
+    font-size: 50px;
+    color:antiquewhite;
+
+}
+.name{
+    margin-top:0;
+    margin-bottom: 0;
+    padding-top: 100px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.learn{
+    
+    font-size:35px ;
+    font-weight: bolder;
+}
+span{
+    text-decoration: underline;
+    font-style: italic;
+}
+.top{
+    
+    background-color:#1A1A40;
+    height: 100vh;
+    position: relative;
+}
+.mountain{
+    position: absolute;
+    bottom:0px;
+    left: 475px;
+}
+.upper-cloud{
+    position: absolute;
+    right: 20%;
+    top:225px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 175px;
+    left: 475px;
+}
+
+.avdeta{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.avatar{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+h4{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: whitesmoke;
+}
+
+p{
+    font-size: 20px;
+}
+
+.float{
+    width: 50%;
+    margin:auto;
+}
+
+.skills{
+    padding-top: 70px;
+    padding: 70px;
+}
+.skill{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: white;
+    float: left;
+    margin-right: 50px;
+}
+
+.Hobbies{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.hob{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: white;
+    float: right;
+    margin-right: 50px;
+}
+.bottom-container{
+    background-color:#42C2FF;
+    color: black;
+    font-size: 50px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    height: max-content;
+}
+
+a{
+    color: #1A1A40;
+    font-style: italic;
+    margin:10px 20px;
+    text-decoration:none;
+    font-size: 50px;
+}
+
+a:hover{
+    color: antiquewhite;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 10%;
+    border-width: 5px;
+}
+
+.contact-me{
+    background-color:#EFFFFD;
+    color: #1A1A40;
+    line-height: 1.6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.end{
+    margin-top: 0px;
+    font-weight: bolder;
+}
+h5{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.BUTTON_HKB {
+    background: #BC8ADA;
+    background-image: -webkit-linear-gradient(top, #BC8ADA, #1A3F7A);
+    background-image: -moz-linear-gradient(top, #BC8ADA, #1A3F7A);
+    background-image: -ms-linear-gradient(top, #BC8ADA, #1A3F7A);
+    background-image: -o-linear-gradient(top, #BC8ADA, #1A3F7A);
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 24px;
+
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
